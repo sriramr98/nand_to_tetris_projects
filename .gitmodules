@@ -1,0 +1,6 @@
+[submodule "vm_translator"]
+	path = vm_translator
+	url = https://github.com/sriramr98/Jack-VM-Translator
+[submodule "assembler"]
+	path = assembler
+	url = https://github.com/sriramr98/hack_assembler
